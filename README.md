@@ -58,9 +58,9 @@ While the BERT Service is running, run:
 
 ```python3 run-qa --question='How tall is Mount McKinley?```
 
-##Disclaimer
+## Disclaimer
 By no means is this project perfect, there are many flaws and functionalities which could be improved using different models, tools, and algorithms. There might be updates to this code in the future.
 
-##References
+## References
 Original Project: Eduard Kegulskiy, https://github.com/ekegulskiy
 
