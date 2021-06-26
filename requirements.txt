@@ -1,0 +1,9 @@
+spacy
+pandas
+colorama
+fake_useragent
+selenium
+wikipedia
+tabulate
+scikit-learn
+websocket
