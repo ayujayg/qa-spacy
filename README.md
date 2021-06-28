@@ -26,7 +26,7 @@ This module is responsible for extracting the Wikipedia article of the most rele
 3. Transforms Wikipedia infobox into a dictionary (wkinfobox.py).
 
 #### 3. BERT-SQuAD and Infobox Matching with Word Vectors (answerextraction.py)
-This module is responsible for calling 3rd party search engines API and collecting data source objects from them:
+This module is responsible for scoring and resolving the most likely answers to the question
 1. Using the weights defined in Module 1, calculates chunks of text with the most relevance to the question, returning the top 3.
 2. Performs a BERT prediction on the question with each of the most relevant chunks of text and returns the predicted answer. (Mostly innacurate)   
 3. For applicable questions (questions with single name or single value answers), matches the question's 'focus word' to a value in the infobox dictionary, and returns the value.
