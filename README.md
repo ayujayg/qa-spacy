@@ -1,6 +1,6 @@
 # QA-SpaCy
 ## Overview
-Capstone project for San Francisco State University's CSC 620 Course (Natural Language Processing). The goal was to fix and increase the capabilities of an original project outline.
+Capstone project for for a class in Natural Language Processing.
 
 This project is my own implementation and redesign of an automated Simple Factoid Question Answering system, using Wikipedia article body and infobox data to produce a likely answer to a question.
 This implementation is divided into three modules, and uses BERT and Word2Vec as the Deep Learning systems involved in answer extraction.
