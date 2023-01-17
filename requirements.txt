@@ -1,7 +1,7 @@
 spacy
 pandas
 colorama
-fake_useragent
+fake-useragent
 selenium
 wikipedia
 tabulate
